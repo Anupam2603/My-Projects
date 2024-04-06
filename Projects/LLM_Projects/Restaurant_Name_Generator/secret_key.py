@@ -1,0 +1,1 @@
+secret_key = "" # Replace with your api key from HuggingFaceHub app!
