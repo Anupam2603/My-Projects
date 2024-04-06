@@ -4,6 +4,7 @@
 ├── main.py
 │── requirments.txt
 ├── langchain_helper.py
+├── secret_key.py
 ```
 
 # Install Necessary Libraies
